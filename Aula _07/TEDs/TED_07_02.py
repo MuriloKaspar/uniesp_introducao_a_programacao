@@ -9,6 +9,6 @@ if ano_atual - ano_nasc < 16:
 elif ano_atual - ano_nasc >= 18 and ano_atual - ano_nasc <=70:
     print("Você deve votar na eleição deste ano!")
 else:
-    print("Você pode votar na eleição deste ano!")
+    print("O voto é facultativo para você na eleição deste ano!")
 
 #Site utilizado para referencia: https://www.tutorialsteacher.com/python/python-if-elif
