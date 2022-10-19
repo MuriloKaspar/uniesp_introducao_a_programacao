@@ -11,7 +11,7 @@ for linha in matriz:
     print(linha[n])
     n=n+1
 
-#usando range
+#usando range ## % 2 = resto da divisão por 2
 for linha in range(len(matriz)):
     for coluna in range(len(matriz[1])):
         if linha == coluna:
