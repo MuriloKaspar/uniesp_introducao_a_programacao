@@ -17,6 +17,6 @@ for x in vetor:
         qnt.append(x)
         
 if (len(qnt) == 0):
-    print(f'O número {n} não aparece no vetor.')
+    print(f'<<<<<< O número {n} não aparece no vetor. >>>>>>')
 else:
-    print(f'O número {n} aparece no vetor {len(qnt)} vezes.')
+    print(f'<<<<<< O número {n} aparece no vetor {len(qnt)} vezes. >>>>>>')
