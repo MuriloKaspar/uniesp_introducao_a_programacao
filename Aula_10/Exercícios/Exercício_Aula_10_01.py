@@ -22,3 +22,20 @@ if pesq in lista_times:
     print(f"<<< ACHEI. O clube {pesq} encontra-se na lista. >>>")
 else:
     print(f"<<< NÃO ACHEI. O clube {pesq} não foi encontrado na lista. >>>")
+
+#Solução Nº 2
+
+# clubes = []
+
+# for i in range(10):
+
+#     clube = input("Digit o novo clube: ")
+#     clubes.append(clube)
+
+# clube_pesquisar = input ("Procure o nome do clube: ")
+
+# for c in clubes:
+#     if clube_pesquisar.upper() == str(c).upper():
+#         print("Achei!")
+#     else:
+#         print("Não Achei!")
