@@ -1,0 +1,46 @@
+{
+    "coord": {
+        "lon": -35.2327,
+        "lat": -7.0942
+    },
+    "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 298.8,
+        "feels_like": 299.25,
+        "temp_min": 298.8,
+        "temp_max": 298.8,
+        "pressure": 1006,
+        "humidity": 70,
+        "sea_level": 1006,
+        "grnd_level": 993
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 4.92,
+        "deg": 73,
+        "gust": 8.04
+    },
+    "clouds": {
+        "all": 95
+    },
+    "dt": 1669755928,
+    "sys": {
+        "type": 1,
+        "id": 8391,
+        "country": "BR",
+        "sunrise": 1669708475,
+        "sunset": 1669753455
+    },
+    "timezone": -10800,
+    "id": 3388046,
+    "name": "Sap\u00e9",
+    "cod": 200
+}

@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": -35.5992,
+        "lat": -7.0822
+    },
+    "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 299.1,
+        "feels_like": 299.1,
+        "temp_min": 299.1,
+        "temp_max": 299.1,
+        "pressure": 1006,
+        "humidity": 68,
+        "sea_level": 1006,
+        "grnd_level": 990
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 5.01,
+        "deg": 70,
+        "gust": 7.08
+    },
+    "clouds": {
+        "all": 100
+    },
+    "dt": 1669756109,
+    "sys": {
+        "country": "BR",
+        "sunrise": 1669708564,
+        "sunset": 1669753542
+    },
+    "timezone": -10800,
+    "id": 3408100,
+    "name": "Alagoa Grande",
+    "cod": 200
+}
