@@ -1,7 +1,7 @@
 {
     "coord": {
-        "lon": -35.5992,
-        "lat": -7.0822
+        "lon": -35.6994,
+        "lat": -6.9683
     },
     "weather": [
         {
@@ -13,32 +13,32 @@
     ],
     "base": "stations",
     "main": {
-        "temp": 300.13,
-        "feels_like": 301.42,
-        "temp_min": 300.13,
-        "temp_max": 300.13,
+        "temp": 297.71,
+        "feels_like": 297.84,
+        "temp_min": 297.71,
+        "temp_max": 297.71,
         "pressure": 1011,
-        "humidity": 63,
+        "humidity": 62,
         "sea_level": 1011,
-        "grnd_level": 994
+        "grnd_level": 945
     },
     "visibility": 10000,
     "wind": {
-        "speed": 1.84,
-        "deg": 175,
-        "gust": 1.77
+        "speed": 2.11,
+        "deg": 141,
+        "gust": 1.69
     },
     "clouds": {
         "all": 100
     },
-    "dt": 1669813423,
+    "dt": 1669813426,
     "sys": {
         "country": "BR",
-        "sunrise": 1669794980,
-        "sunset": 1669839969
+        "sunrise": 1669795015,
+        "sunset": 1669839982
     },
     "timezone": -10800,
-    "id": 3408100,
-    "name": "Alagoa Grande",
+    "id": 3407210,
+    "name": "Areia",
     "cod": 200
 }
