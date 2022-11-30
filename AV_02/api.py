@@ -6,7 +6,6 @@
 # ******                                        ******
 # ******       Fernando Braz da Silveira        ******
 # ******       Jayme Holanda Aguiar             ******
-# ******       Lucas Floriano da Silva          ******
 # ******       Murilo Kaspar Deininger Neto     ******
 # ****************************************************
 
